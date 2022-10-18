@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/todo-react-platzi/static/css/main.ee74b4cc.chunk.css",
+    "main.js": "/todo-react-platzi/static/js/main.cdab2f40.chunk.js",
+    "main.js.map": "/todo-react-platzi/static/js/main.cdab2f40.chunk.js.map",
+    "runtime-main.js": "/todo-react-platzi/static/js/runtime-main.bd2e9356.js",
+    "runtime-main.js.map": "/todo-react-platzi/static/js/runtime-main.bd2e9356.js.map",
+    "static/js/2.8f56fba3.chunk.js": "/todo-react-platzi/static/js/2.8f56fba3.chunk.js",
+    "static/js/2.8f56fba3.chunk.js.map": "/todo-react-platzi/static/js/2.8f56fba3.chunk.js.map",
+    "index.html": "/todo-react-platzi/index.html",
+    "static/css/main.ee74b4cc.chunk.css.map": "/todo-react-platzi/static/css/main.ee74b4cc.chunk.css.map",
+    "static/js/2.8f56fba3.chunk.js.LICENSE.txt": "/todo-react-platzi/static/js/2.8f56fba3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd2e9356.js",
+    "static/js/2.8f56fba3.chunk.js",
+    "static/css/main.ee74b4cc.chunk.css",
+    "static/js/main.cdab2f40.chunk.js"
+  ]
+}
